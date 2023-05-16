@@ -1,3 +1,3 @@
 - 👋 Hi, I’m _@eiscoollol_
 - 👀 I’m interested in **gaming** and ```coding```
-- 🌱 I’m currently learning **math**
+- 🌱 I’m currently learning **Python**
